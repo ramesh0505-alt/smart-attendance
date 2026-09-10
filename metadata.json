@@ -1,0 +1,11 @@
+{
+  "name": "Smart College Student Portal",
+  "description": "A production-grade digital campus platform connecting curriculum, attendance with live QR, assessments, competency tracking, personalized learning loops, and Gemini AI assistants for students, faculty, admins, and parents.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
